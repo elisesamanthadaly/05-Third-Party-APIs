@@ -88,7 +88,7 @@ function refreshPlanner() {
         $("#5PM").removeClass("future");
         $("#5PM").addClass("present");
     }
-    if (now.isAfter(fivePM)) {
+    if (now.isAfter(sixPM)) {
         $("#5PM").removeClass("present");
     }
 
