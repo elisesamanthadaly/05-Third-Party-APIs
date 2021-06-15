@@ -1,5 +1,5 @@
-# 3-1-21-Homework
-# 05 Third-Party APIs: Work Day Scheduler
+# 05 Third-Party APIs
+# Work Day Scheduler
 
 This application is a simple planner that displays the current date and allows the user to input events per hour of the business day. Events can be saved to local storage for future viewing.
 
